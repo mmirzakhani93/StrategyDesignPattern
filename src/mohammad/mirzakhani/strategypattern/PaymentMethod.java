@@ -1,4 +1,4 @@
-package ir.whatsoft.strategypattern;
+package mohammad.mirzakhani.strategypattern;
 
 public interface PaymentMethod {
 
